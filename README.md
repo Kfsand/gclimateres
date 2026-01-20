@@ -18,5 +18,5 @@ The associated visualisation website is available under [this link](https://kfsa
 
 - `data`: contains the default datasetts
 - `web`: contains the main code of the website
+- `thesis`:  contains the thesis document and associated scientific abckground and methodology
 
-### Usage
